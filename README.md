@@ -271,3 +271,7 @@ greedy algorithm (array)
 ```
 
 This algorithm never needed to compare all the differences to one another, saving it an entire iteration.
+
+
+#### Python Coding Interview
+This is a great article on best practices, built-in methods and some tricks to use in a python coding interview: https://realpython.com/python-coding-interview-tips/
